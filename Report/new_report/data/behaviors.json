@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登陆用例",
+    "children" : [ {
+      "name" : "登陆",
+      "uid" : "d4ab211ab5b1f611",
+      "parentUid" : "de21087bee19c4f1c221cbd74d720a00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690294808144,
+        "stop" : 1690294810708,
+        "duration" : 2564
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "de21087bee19c4f1c221cbd74d720a00"
+  }, {
+    "name" : "搜索用例",
+    "children" : [ {
+      "name" : "搜索",
+      "uid" : "51a731677ba3d1d7",
+      "parentUid" : "26551c67de24529bcf73854042b198c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690294810766,
+        "stop" : 1690294816238,
+        "duration" : 5472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'电饭锅'" ]
+    } ],
+    "uid" : "26551c67de24529bcf73854042b198c1"
+  } ]
+}

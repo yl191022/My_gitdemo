@@ -1,0 +1,21 @@
+[ {
+  "uid" : "d4ab211ab5b1f611",
+  "name" : "登陆",
+  "time" : {
+    "start" : 1690294808144,
+    "stop" : 1690294810708,
+    "duration" : 2564
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "51a731677ba3d1d7",
+  "name" : "搜索",
+  "time" : {
+    "start" : 1690294810766,
+    "stop" : 1690294816238,
+    "duration" : 5472
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

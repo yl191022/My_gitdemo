@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PF1HTKJJ",
+    "children" : [ {
+      "name" : "10632-MainThread",
+      "children" : [ {
+        "name" : "搜索",
+        "uid" : "51a731677ba3d1d7",
+        "parentUid" : "7d687cdb81daf43c6dddbe36d5f67347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690294810766,
+          "stop" : 1690294816238,
+          "duration" : 5472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'电饭锅'" ]
+      }, {
+        "name" : "登陆",
+        "uid" : "d4ab211ab5b1f611",
+        "parentUid" : "7d687cdb81daf43c6dddbe36d5f67347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690294808144,
+          "stop" : 1690294810708,
+          "duration" : 2564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d687cdb81daf43c6dddbe36d5f67347"
+    } ],
+    "uid" : "b8d1b305657e627d8a8f8284027a4d99"
+  } ]
+}

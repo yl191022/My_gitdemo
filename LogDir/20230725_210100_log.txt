@@ -1,0 +1,2 @@
+2023-07-25 21:01:00 INFO [test_case1.py:20]:success
+2023-07-25 21:01:05 INFO [test_case1.py:20]:success

@@ -1,0 +1,120 @@
+{
+  "uid" : "d4ab211ab5b1f611",
+  "name" : "登陆",
+  "fullName" : "Case.qd_case.test_login_search#test_case1",
+  "historyId" : "da29618b1a31fed0d682a2f285f14f3d",
+  "time" : {
+    "start" : 1690294808144,
+    "stop" : 1690294810708,
+    "duration" : 2564
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver_fix",
+    "time" : {
+      "start" : 1690294806100,
+      "stop" : 1690294808143,
+      "duration" : 2043
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "by_fix",
+    "time" : {
+      "start" : 1690294808143,
+      "stop" : 1690294808143,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d42e589365223319",
+      "name" : "log",
+      "source" : "d42e589365223319.txt",
+      "type" : "text/plain",
+      "size" : 43
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver_fix::0",
+    "time" : {
+      "start" : 1690294816240,
+      "stop" : 1690294816240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登陆用例"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Case.qd_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_search"
+  }, {
+    "name" : "host",
+    "value" : "PF1HTKJJ"
+  }, {
+    "name" : "thread",
+    "value" : "10632-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Case.qd_case.test_login_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4ab211ab5b1f611.json",
+  "parameterValues" : [ ]
+}

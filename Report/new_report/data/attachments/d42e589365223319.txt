@@ -1,0 +1,1 @@
+INFO     lg:test_login_search.py:14 success

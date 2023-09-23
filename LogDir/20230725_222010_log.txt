@@ -1,0 +1,2 @@
+2023-07-25 22:20:10 INFO [test_login_search.py:20]:success
+2023-07-25 22:20:16 INFO [test_login_search.py:20]:success

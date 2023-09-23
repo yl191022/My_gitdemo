@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Case.qd_case",
+    "children" : [ {
+      "name" : "test_login_search",
+      "children" : [ {
+        "name" : "登陆",
+        "uid" : "d4ab211ab5b1f611",
+        "parentUid" : "1f7fae68e2a806c48a8e02126e8cc742",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690294808144,
+          "stop" : 1690294810708,
+          "duration" : 2564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "搜索",
+        "uid" : "51a731677ba3d1d7",
+        "parentUid" : "1f7fae68e2a806c48a8e02126e8cc742",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690294810766,
+          "stop" : 1690294816238,
+          "duration" : 5472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'电饭锅'" ]
+      } ],
+      "uid" : "1f7fae68e2a806c48a8e02126e8cc742"
+    } ],
+    "uid" : "9a8f43ca163f399edbf0f843eca15a69"
+  } ]
+}
